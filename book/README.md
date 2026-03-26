@@ -34,9 +34,13 @@ Todo el código que escribes se puede clasificar en una de estas tres categoría
 -   `18-distributed-systems-functional/`: Resiliencia en la nube: Manejo de eventos y acciones compensatorias.
 -   `19-performance-optimization/`: Superpoderes funcionales: Memoización y Batching de Cálculos puros.
 -   `20-final-project-blueprint/`: El diseño perfecto: Flujo de datos, validación y persistencia unificados.
+-   `21-refactoring-primitive-obsession/`: Cómo evitar el mal uso de tipos básicos para representar conceptos de negocio complejos.
+-   `22-defensive-data-cloning/`: El arte de la inmutabilidad: Cómo proteger tus datos mediante la clonación defensiva.
+-   `23-reactive-spreadsheets/`: Arquitectura reactiva: Diseñando sistemas que responden automáticamente a cambios en los datos.
+-   `24-chaining-async-actions/`: Orquestación funcional: Cómo encadenar efectos secundarios (Acciones) de forma segura y legible.
 
 ## 🚀 Cómo usar este código
 
 Este no es un código de producción, es un **recurso educativo**. Lee los archivos en orden y presta atención a los comentarios. El objetivo es que aprendas a ver el código de una forma diferente: **refactorizando acciones hacia cálculos**.
 
-¡Felicidades por completar los 20 módulos de la enciclopedia funcional! 🚀
+¡Felicidades por completar los 24 módulos de la enciclopedia funcional! 🚀
